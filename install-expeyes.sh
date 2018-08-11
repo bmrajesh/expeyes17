@@ -5,7 +5,7 @@ sudo apt install libglvnd-dev
 cd ~/Downloads
 mkdir ExpeyesRVCEInstaller
 cd ExpeyesRVCEInstaller
-wget -N https://github.com/shashankholla/expeyesRVCE/raw/master/requirements.txt
+wget -N https://github.com/bmrajesh/expeyes17/raw/master/requirements.txt
 pip3 install -r requirements.txt
 wget -N https://github.com/bmrajesh/expeyes17/raw/master/expeyesrvce17.deb
 dpkg -i --force-overwrite expeyesrvce17.deb
