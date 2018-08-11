@@ -7,7 +7,7 @@ mkdir ExpeyesRVCEInstaller
 cd ExpeyesRVCEInstaller
 wget -N https://github.com/shashankholla/expeyesRVCE/raw/master/requirements.txt
 pip3 install -r requirements.txt
-wget -N https://github.com/shashankholla/expeyesRVCE/raw/master/expeyesRVCE-0.0.1.deb
+wget -N https://github.com/bmrajesh/expeyes17/raw/master/expeyesrvce17.deb
 dpkg -i --force-overwrite expeyesRVCE-0.0.1.deb
 rm -f expeyesRVCE-0.0.1.deb
 rm -f requirements.txt
