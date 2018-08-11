@@ -7,7 +7,7 @@ Note: This code is based off of [Expeyes website](http://expeyes.in) and is unde
 2. Copy paste the following commands
 ```
 cd ~/Downloads
-wget -N https://raw.githubusercontent.com/shashankholla/expeyesRVCE/master/install-expeyes.sh
+wget -N https://raw.githubusercontent.com/bmrajesh/expeyes17master/install-expeyes.sh
 sudo bash ./install-expeyes.sh
 ```
 
